@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/manoj-portfolio/static/css/main.4fca0213.css",
-    "main.js": "/manoj-portfolio/static/js/main.b03e632b.js",
+    "main.css": "/manoj-portfolio/static/css/main.aae29173.chunk.css",
+    "main.js": "/manoj-portfolio/static/js/main.6627c276.chunk.js",
+    "main.js.map": "/manoj-portfolio/static/js/main.6627c276.chunk.js.map",
+    "runtime~main.js": "/manoj-portfolio/static/js/runtime~main.5d8192de.js",
+    "runtime~main.js.map": "/manoj-portfolio/static/js/runtime~main.5d8192de.js.map",
+    "static/js/2.24f3bc64.chunk.js": "/manoj-portfolio/static/js/2.24f3bc64.chunk.js",
+    "static/js/2.24f3bc64.chunk.js.map": "/manoj-portfolio/static/js/2.24f3bc64.chunk.js.map",
     "index.html": "/manoj-portfolio/index.html",
-    "main.4fca0213.css.map": "/manoj-portfolio/static/css/main.4fca0213.css.map",
-    "main.b03e632b.js.map": "/manoj-portfolio/static/js/main.b03e632b.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.4fca0213.css",
-    "static/js/main.b03e632b.js"
-  ]
+    "precache-manifest.d2dfee8744645ab77faf695f979ee7b8.js": "/manoj-portfolio/precache-manifest.d2dfee8744645ab77faf695f979ee7b8.js",
+    "service-worker.js": "/manoj-portfolio/service-worker.js",
+    "static/css/main.aae29173.chunk.css.map": "/manoj-portfolio/static/css/main.aae29173.chunk.css.map"
+  }
 }
