@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4fca0213.css","mappings":"AAAA,KAGE,wBAAyB,CACzB,UAAW,CAFX,4BAA8B,CAD9B,QAIF","sources":["index.css"],"sourcesContent":["body {\r\n  margin: 0;\r\n  font-family: Arial, sans-serif;\r\n  background-color: #f9f9f9;\r\n  color: #333;\r\n}\r\n"],"names":[],"sourceRoot":""}

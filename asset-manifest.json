@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manoj-portfolio/static/css/main.4fca0213.css",
+    "main.js": "/manoj-portfolio/static/js/main.b03e632b.js",
+    "index.html": "/manoj-portfolio/index.html",
+    "main.4fca0213.css.map": "/manoj-portfolio/static/css/main.4fca0213.css.map",
+    "main.b03e632b.js.map": "/manoj-portfolio/static/js/main.b03e632b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fca0213.css",
+    "static/js/main.b03e632b.js"
+  ]
+}
